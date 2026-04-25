@@ -53,7 +53,7 @@ internal class Program
       dice "abs(1d5 - 2)" => 5面ダイスの結果から2を引き、その絶対値を取った値を出力
 
       diceの使い方については、以下を参照してください。
-      https://github.com/Bismuth083/AlgorithmPractice/TRPGDice
+      https://github.com/Bismuth083/TRPGDice
 
       計算式に使用可能な要素については、以下を参照してください。
       https://sys27.github.io/xFunc/articles/supported-functions-and-operations.html
